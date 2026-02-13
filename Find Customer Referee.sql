@@ -1,6 +1,6 @@
 
 -- Problem: Find Customer Referee
--- Link: https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50
+-- Link: https://leetcode.com/problems/find-customer-referee/description/
 -- Difficulty: Easy
 
 SELECT name 
